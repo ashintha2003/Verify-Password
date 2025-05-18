@@ -1,4 +1,5 @@
-#  Strong Password Validator (Codeforces Problem)
+#  Strong Password Validator (Codeforces Problem) 
+- C language
 
 This repository contains my solution to a **password validation problem** originally given on [Codeforces](https://codeforces.com/). The task is to implement an algorithm that checks whether a given password is "strong" based on a specific set of rules.
 
