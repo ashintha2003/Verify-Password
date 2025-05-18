@@ -26,22 +26,10 @@ Monocarp is designing a website that requires users to pick **strong passwords**
 
 For each test case, print `"YES"` if the password is strong, or `"NO"` otherwise.
 
-##  Sample
+![Screenshot 2025-05-19 001033](https://github.com/user-attachments/assets/3b8aaf4a-dd10-4f61-bd0b-43009872138e)
 
-INPUTS 
+![Screenshot 2025-05-19 001104](https://github.com/user-attachments/assets/3d2c3f6b-f090-412a-9974-390c71f8e8e7)
 
-12ac
-123wa
-allllmost
-ac123
-011679
 
-OUTPUTS
-
-YES
-NO
-YES
-NO
-YES
 
 
